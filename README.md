@@ -1,8 +1,6 @@
 
 ![coollogo_com-5358140](https://github.com/spdharma777/spdhrma777/assets/115402573/83a11a83-0d3a-4e2c-81a9-5350a12cc9fc)
 
-![download](https://github.com/spdharma777/spdhrma777/assets/115402573/9fd3b657-05a8-4cc4-9fb0-061a5d288c3f)
-
 
 - Hi, I am Dharma from Coimbatore, India. 
   - Passionate Developer
@@ -11,8 +9,7 @@
  
      <p align="left"> 
  
-  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javascripttutorial.net%2F&psig=AOvVaw0JsEMLX62F3sC-fn80YYPP&ust=1690309806842000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD4iO78p4ADFQAAAAAdAAAAABAQ>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="80" height="50"/>
+   <img src="![download](https://github.com/spdharma777/spdhrma777/assets/115402573/a6083889-5d4f-4624-8d4f-9e3568a2104f)">
   
   <img src="https://user-images.githubusercontent.com/108978683/199270835-17e06887-7071-4dc8-b7e1-5a40bda8e641.svg" alt="matplotlib" width="100" height="50"/>
   
