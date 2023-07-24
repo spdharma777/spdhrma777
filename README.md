@@ -1,6 +1,7 @@
 ![photo](https://github.com/spdharma777/spdhrma777/assets/115402573/69a09b51-a3b8-4077-a8d3-11bb93478cc8)
 <a href="file:///C:/Users/Star/Desktop/photo.svg">
-
+file:///C:/Users/Star/Desktop/photo.svg
+<img src="file:///C:/Users/Star/Desktop/photo.svg>
 
   - Hi, I am Dharma from udumalpet, India. 
   - Passionate Developer
