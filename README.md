@@ -1,2 +1,2 @@
-𝐆𝐎𝐎𝐃 𝐃𝐀𝐘,𝐈'𝐌 𝐃𝐡𝐚𝐫𝐦𝐚𝐥𝐢𝐧𝐠𝐚𝐦
+
 ![coollogo_com-5358140](https://github.com/spdharma777/spdhrma777/assets/115402573/83a11a83-0d3a-4e2c-81a9-5350a12cc9fc)
