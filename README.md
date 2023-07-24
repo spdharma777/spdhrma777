@@ -8,7 +8,7 @@
  
      <p align="left"> 
  
-  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javascripttutorial.net%2F&psig=AOvVaw0JsEMLX62F3sC-fn80YYPP&ust=1690309806842000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD4iO78p4ADFQAAAAAdAAAAABAQ
+  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javascripttutorial.net%2F&psig=AOvVaw0JsEMLX62F3sC-fn80YYPP&ust=1690309806842000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD4iO78p4ADFQAAAAAdAAAAABAQ>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="80" height="50"/>
   
   <img src="https://user-images.githubusercontent.com/108978683/199270835-17e06887-7071-4dc8-b7e1-5a40bda8e641.svg" alt="matplotlib" width="100" height="50"/>
