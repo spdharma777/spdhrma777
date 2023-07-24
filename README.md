@@ -1,3 +1,5 @@
+![spdharma](https://github.com/spdharma777/spdhrma777/assets/115402573/3be098bc-47c8-4447-bc52-36985de362c8)
+
 ![photo](https://github.com/spdharma777/spdhrma777/assets/115402573/69a09b51-a3b8-4077-a8d3-11bb93478cc8)
 
   - Hi, I am Dharma from udumalpet, India. 
