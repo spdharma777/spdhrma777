@@ -1,5 +1,6 @@
-![spdharma](https://github.com/spdharma777/spdhrma777/assets/115402573/3be098bc-47c8-4447-bc52-36985de362c8)
- - Hi, I am Dharma from udumalpet, India. 
+![spdharma1](https://github.com/spdharma777/spdhrma777/assets/115402573/d23963c7-888a-494a-a660-e57d3daebd81)
+
+  - Hi, I am Dharma from udumalpet, India. 
   - Passionate Developer
   - IITM Advance Professional Programming with fullstack developer Program - GUVI Geek Networks,IITM Research Park
   - learning on Fsd projects
