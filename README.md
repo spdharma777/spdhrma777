@@ -10,6 +10,8 @@
      <p align="left"> 
  
    <img src="![download](https://github.com/spdharma777/spdhrma777/assets/115402573/a6083889-5d4f-4624-8d4f-9e3568a2104f)">
+   <img src="![download](https://github.com/spdharma777/spdhrma777/assets/115402573/7ef453eb-6123-4ce8-928e-65d091c08689)">
+"
   
   <img src="https://user-images.githubusercontent.com/108978683/199270835-17e06887-7071-4dc8-b7e1-5a40bda8e641.svg" alt="matplotlib" width="100" height="50"/>
   
